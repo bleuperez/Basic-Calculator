@@ -1,0 +1,8 @@
+#Simple calculator that can return the sum of two numbers that are int. and/or floats
+
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+
+result = (float(num1)) + (float(num2))
+
+print(result)
